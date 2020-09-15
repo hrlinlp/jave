@@ -64,6 +64,7 @@ Procedures, which encode texts and images with pre-trained BERT and ResNet, are 
 References of how we implement: 
 
 > BERT: [https://github.com/google-research/bert/](https://github.com/google-research/bert/)
+
 > ResNet: [https://pytorch.org/docs/stable/torchvision/models.html](https://pytorch.org/docs/stable/torchvision/models.html)
 
 #### Requirement
