@@ -9,11 +9,13 @@ Implementation for EMNLP-2020 paper: *Multimodal Joint Attribute Prediction and 
 We collect a multimodal product attribute value dataset with textual product descriptions and product images.
 
 Preview:
-| instances(all) | 87,194 |
-| instances(train) | 71,194 |
-| instances(valid) | 8,000 |
-| instances(test) | 8,000 |
-| attribute types | 26 |
+
+|   |  instances |
+| :------------ | :------------ |
+| **All** | 87,194 |
+| **Train** | 71,194 |
+| **Valid** | 8,000 |
+| **Test** | 8,000 |
 
 We sampled a tiny subset and put it here, so that you can run the code immediately after cloning.
 
