@@ -2,7 +2,7 @@
 
 Implementation for EMNLP-2020 paper: *Multimodal Joint Attribute Prediction and Value Extraction for E-commerce Product*
 
-![](https://i.loli.net/2020/09/15/nfGEbvZ4zJABx1O.png)
+![](https://i.loli.net/2020/09/15/V5oMdqxBcwSiDer.png)
 
 ## Dataset
 
