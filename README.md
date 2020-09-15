@@ -61,6 +61,11 @@ Procedures, which encode texts and images with pre-trained BERT and ResNet, are 
   - cids_of_imgs # cid index of above two files
 ```
 
+References of how we implement: 
+
+> BERT: [https://github.com/google-research/bert/](https://github.com/google-research/bert/)
+> ResNet: [https://pytorch.org/docs/stable/torchvision/models.html](https://pytorch.org/docs/stable/torchvision/models.html)
+
 #### Requirement
 
 Python 3, Tensorflow 1.12
